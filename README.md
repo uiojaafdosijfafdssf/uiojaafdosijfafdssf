@@ -5,6 +5,5 @@
 - 📫 Message me on Discord! uio#9765
 
 <!---
-uiojaafdosijfafdssf/uiojaafdosijfafdssf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your chonges.
+hi
 --->
