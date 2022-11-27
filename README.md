@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Roblox scripting
 - 💞️ I’m looking to collaborate on nothing
 - 📫 Message me on Discord! uio#9765
+- 🪨 I'm stupid
 
 <!---
 hi
