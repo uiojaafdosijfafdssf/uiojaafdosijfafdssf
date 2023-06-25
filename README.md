@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @uiojaafdosijfafdssf
-- 👀 I’m interested in Roblox scripting
-- 🌱 I’m currently learning Roblox scripting
-- 💞️ I’m looking to collaborate on nothing
-- 📫 Message me on Discord! uio#9765
+- 👋 Hi, I'm uio
+- 👀 I'm interested in coding
+- 🌱 I'm currently learning coding (I know quite a few text coding languages)
+- 💞️ I'm looking to collaborate on nothing
+- 📫 Don't message me on Discord!
 - 🪨 I'm stupid
 
 <!---
